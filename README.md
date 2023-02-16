@@ -1,1 +1,1 @@
-# bolt_test of "https://new.projapan.ru/" 
+https://new.projapan.ru/
