@@ -8,6 +8,10 @@
   status: pass
 
 - summary: |
+    Просмотр прошедших аукционов
+  status: pass
+
+- summary: |
     Фильтрация актуальных лотов по аукционной площадке
   status: pass
 
